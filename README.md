@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Cloud SIEM Deployment – Microsoft Sentinel (Azure)](https://github.com/SlashHasher/SlashHasher)
+- [Cloud SIEM Deployment – Microsoft Sentinel (Azure)](https://github.com/SlashHasher/SIEM-Deployment/blob/main/README.md)
 - [Network Vulnerability & Packet Analysis Lab - Nmap & Wireshark](https://github.com/SlashHasher/SlashHasher)
 - [Simulated Cyber Attack & Detection Lab – Cisco Packet Tracer](https://github.com/SlashHasher/SlashHasher)
 
