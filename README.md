@@ -8,7 +8,6 @@
 - [Simulated Cyber Attack & Detection Lab – Cisco Packet Tracer](https://github.com/SlashHasher/SlashHasher)
 
 
-
 <h2>📃 Certifications:</h2>
 
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4W45Y1F92Z0LF0CT)
