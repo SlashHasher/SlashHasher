@@ -41,14 +41,18 @@
 
 
 
-
-
 <h2> 🤳 Connect with me:</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yazan-moussa-ggc/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yazan Moussa | LinkedIn" height="30" width="100" />
+  </a>
 
+  </a>
+  <!-- Add more social links if desired -->
+</p>
 
-[<img align="center" alt="Yazan Moussa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/yazan-moussa-ggc/
 
 <!--
