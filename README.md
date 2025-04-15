@@ -24,7 +24,7 @@
 
 - [🛡️ Cloud SIEM Deployment – Microsoft Sentinel (Azure)](https://github.com/SlashHasher/SIEM-Deployment/blob/main/README.md)
 - [🔒 Vulnerability Discovery and Remediation – Nessus](https://github.com/SlashHasher/SlashHasher)
-- [🕵️ Network Vulnerability & Packet Analysis - Nmap & Wireshark](https://github.com/SlashHasher/SlashHasher)
+- [🕵️ Network Vulnerability & Packet Analysis - Nmap & Wireshark](https://github.com/SlashHasher/Nmap_Wireshark/tree/main)
 - [🌐 Simulated Cyber Attack & Detection – Cisco Packet Tracer](https://github.com/SlashHasher/SlashHasher)
 - [🔗 Configure Secure Passwords and SSH – Cisco Packet Tracer](https://github.com/SlashHasher/SlashHasher)
 - [🔑 Python Keylogger](https://github.com/SlashHasher/SlashHasher)
