@@ -34,9 +34,10 @@
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4W45Y1F92Z0LF0CT)
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=TJ64RHE9B8PPV35B)
 - [CompTIA A+ ](https://www.certmetrics.com/comptia/public/verification.aspx?code=71MVM98WDYK0F2CC)
+- [ITIL® 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
+- [LPI Linux Essentials](https://www.lpi.org/)
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/d3c16434-829b-4592-99eb-917138647a5e/public_url)
 - [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/59566ab3-78c4-4427-bf14-62249938ffd5/public_url)
-- [ITIL® 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
 
 
 
