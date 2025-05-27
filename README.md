@@ -22,10 +22,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [🖥️ Enterprise Active Directory Deployment with SIEM and Automation (Vultr, Splunk, Slack, Shuffle)](https://github.com/SlashHasher/Active-Directory/tree/main)
 - [🛡️ Cloud SIEM Deployment – Microsoft Sentinel (Azure)](https://github.com/SlashHasher/SIEM-Deployment/tree/main)
 - [🕵️ Network Vulnerability & Packet Analysis - Nmap & Wireshark](https://github.com/SlashHasher/Nmap_Wireshark/tree/main)
-- [🌐 Simulated Cyber Attack & Detection – Cisco Packet Tracer](https://github.com/SlashHasher/Cisco-ACL/tree/main)
-- [🖥️ Active Directory – Splunk, Slack, and Shuffle](https://github.com/SlashHasher/Active-Directory/tree/main)
+- [🌐 Simulated Cyber Attack, Detection, and Remediation – Cisco Packet Tracer](https://github.com/SlashHasher/Cisco-ACL/tree/main)
 - [🔒 Vulnerability Discovery and Remediation – Nessus](https://github.com/SlashHasher/Nessus/tree/main)
 - [🔑 Python Keylogger](https://github.com/SlashHasher/PythonKeylogger)
 
