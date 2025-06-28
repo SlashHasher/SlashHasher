@@ -31,6 +31,7 @@
 
 <h2>📜 Certifications:</h2>
 
+- [CompTIA CySA+](https://www.certmetrics.com/comptia/public/verification.aspx?code=70XFWVRSXEBQ54W2)
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4W45Y1F92Z0LF0CT)
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=TJ64RHE9B8PPV35B)
 - [CompTIA A+ ](https://www.certmetrics.com/comptia/public/verification.aspx?code=71MVM98WDYK0F2CC)
@@ -40,6 +41,7 @@
 - [LPI Linux Essentials](https://www.credly.com/badges/2a352630-db09-4281-99b7-6b4b4056161b)
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/d3c16434-829b-4592-99eb-917138647a5e/public_url)
 - [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/59566ab3-78c4-4427-bf14-62249938ffd5/public_url)
+- [CompTIA Security Analytics Professional – CSAP](https://www.credly.com/badges/3c70801f-304f-4010-a85c-764bd953ffdd/public_url)
 
 
 
