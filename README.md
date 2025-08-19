@@ -40,9 +40,11 @@
 - [Associate of ISC2](https://www.credly.com/badges/33136ce7-af2e-48ee-8aab-c4ecf4901122)
 - [ITIL® 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
 - [LPI Linux Essentials](https://www.credly.com/badges/2a352630-db09-4281-99b7-6b4b4056161b)
-- [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/d3c16434-829b-4592-99eb-917138647a5e/public_url)
-- [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/59566ab3-78c4-4427-bf14-62249938ffd5/public_url)
-- [CompTIA Security Analytics Professional – CSAP](https://www.credly.com/badges/3c70801f-304f-4010-a85c-764bd953ffdd/public_url)
+- [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/6652ad4b-c731-4369-b761-8bf686a4441c/public_url)
+- [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/5b4ff6d3-57d7-4848-8eb7-046ae66b36b5/public_url)
+- [CompTIA Security Analytics Professional – CSAP](https://www.credly.com/badges/81721488-3686-4e6d-b408-d0968dfb2aeb/public_url)
+- [CompTIA Network Security Professional – CNSP](https://www.credly.com/badges/09aff169-dc6e-4f30-bef5-0e3e7d6232e2/public_url)
+- [CompTIA Network Vulnerability Assessment Professional – CNVP](https://www.credly.com/badges/e3a52489-d604-4138-9ac4-6faa3596c938/public_url)
 
 
 
