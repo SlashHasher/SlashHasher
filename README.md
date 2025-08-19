@@ -31,13 +31,13 @@
 
 <h2>📜 Certifications:</h2>
 
-- [CompTIA Pentest+](https://www.credly.com/badges/54678e8f-7f55-4929-9bfb-577aacdb48cc/public_url)
+- [CompTIA Pentest+](https://www.certmetrics.com/comptia/public/verification.aspx?code=WVKRV3PR08K6HZNJ)
 - [CompTIA CySA+](https://www.certmetrics.com/comptia/public/verification.aspx?code=70XFWVRSXEBQ54W2)
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4W45Y1F92Z0LF0CT)
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=TJ64RHE9B8PPV35B)
 - [CompTIA A+ ](https://www.certmetrics.com/comptia/public/verification.aspx?code=71MVM98WDYK0F2CC)
 - [CompTIA Project+](https://www.credly.com/badges/ca7adf4f-82ef-4809-bbe6-e3b1501b0ec6)
-- [Associate of ISC2](https://www.isc2.org/certifications/associate)
+- [Associate of ISC2](https://www.credly.com/badges/33136ce7-af2e-48ee-8aab-c4ecf4901122)
 - [ITIL® 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
 - [LPI Linux Essentials](https://www.credly.com/badges/2a352630-db09-4281-99b7-6b4b4056161b)
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/d3c16434-829b-4592-99eb-917138647a5e/public_url)
