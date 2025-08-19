@@ -31,6 +31,7 @@
 
 <h2>📜 Certifications:</h2>
 
+- [CompTIA Pentest+](https://www.credly.com/badges/54678e8f-7f55-4929-9bfb-577aacdb48cc/public_url)
 - [CompTIA CySA+](https://www.certmetrics.com/comptia/public/verification.aspx?code=70XFWVRSXEBQ54W2)
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4W45Y1F92Z0LF0CT)
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=TJ64RHE9B8PPV35B)
