@@ -37,7 +37,7 @@
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=TJ64RHE9B8PPV35B)
 - [CompTIA A+ ](https://www.certmetrics.com/comptia/public/verification.aspx?code=71MVM98WDYK0F2CC)
 - [CompTIA Project+](https://www.credly.com/badges/ca7adf4f-82ef-4809-bbe6-e3b1501b0ec6)
-- [Associate of ISC2](https://www.credly.com/badges/33136ce7-af2e-48ee-8aab-c4ecf4901122)
+- [ISC2 SSCP](https://www.credly.com/badges/0d4716ad-c51c-4e42-ab6c-85cfbc5300f2/public_url)
 - [ITIL® 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
 - [LPI Linux Essentials](https://www.credly.com/badges/2a352630-db09-4281-99b7-6b4b4056161b)
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/6652ad4b-c731-4369-b761-8bf686a4441c/public_url)
